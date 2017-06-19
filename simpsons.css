@@ -7,20 +7,21 @@ body {
 h2 {
   text-align: center;
   font-size: 48px;
+  margin-top: 70px;
   font-family: Gloria Hallelujah;
   color: yellow;
 }
 
 
 .textbox {
-  width: 500px;
+  width: 590px;
   padding: 100px 50px 100px 50px;
   background-image: url(http://www.funtimejoy.com/wp-content/uploads/2012/09/The-Simpsons-Satiric-Adventures-Bart-Homer.jpg);
   background-size: 600px 400px;
   background-position: bottom;
   background-repeat: no-repeat;
   border-radius: 10px;
-  margin: 0px 0px 0px 180px;
+  margin: 50px 0px 0px 180px;
 }
 
 #quoteWords {
@@ -28,7 +29,7 @@ h2 {
   height: 275px;
   font-size: 24px;
   text-align: center;
-  margin-top: -100px;
+  margin-top: -90px;
   font-family: Gloria Hallelujah;
 }
 
